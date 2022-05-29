@@ -12,7 +12,7 @@ html, body {
   }
   
   h1 {
-      color: red;
+      color: #a41623;
   }
   
   button {
@@ -23,7 +23,8 @@ html, body {
   }
   
   h2 {
-      color: red;
+      /* color: #6c464f; */
+      color: #a41623;
       font-size: 55px;
   }
   
