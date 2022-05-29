@@ -3,4 +3,6 @@
 https://askyesorno.netlify.app/
 
 
-![yesorno](https://user-images.githubusercontent.com/24884380/170851882-f6f015c3-514d-48d1-adc8-fd92aa8d7a38.jpg)
+
+
+![yesorno](https://user-images.githubusercontent.com/24884380/170852360-31314b0a-fbfb-46cb-a8dc-8249c4abf6fd.jpg)
