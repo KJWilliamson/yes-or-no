@@ -1,5 +1,7 @@
 # yes-or-no
 
+Inspiration for this was a Twilight Zone episode
+
 https://askyesorno.netlify.app/
 
 
